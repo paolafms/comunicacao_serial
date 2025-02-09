@@ -1,6 +1,6 @@
-# Link do vídeo: 
+# Link do vídeo: https://drive.google.com/file/d/1wCkYE6Cse_xFmHuDovuxqz2HyK546rOW/view?usp=sharing
 
-# Controle de LEDs, Matriz WS2812 e Display SSD1306 com Raspberry Pi Pico W
+# Controle de LEDs, Matriz WS2812 e Display SSD1306 com Raspberry Pi Pico W na placa BitDogLab
 
 # Descrição:
 - Este projeto implementa um sistema de controle de LEDs, display OLED SSD1306 e matriz de LEDs WS2812 utilizando a placa Raspberry Pi Pico W. O sistema permite interação através de botões para acionar LEDs individuais, digitação de caracteres (maiúsculos, minúsculos e numéricos), além de exibir mensagens no display SSD1306, no serial monitor e na matriz LED WS2812.
